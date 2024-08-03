@@ -1,5 +1,3 @@
-# All-About-git
-
 # Git-Cheat-Sheet
 
 ## Document_Cheat_Sheet
